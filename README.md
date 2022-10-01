@@ -7,7 +7,9 @@ Credit Card Fraud Classification - I tried to predict wether a credit card trans
 
 Customer Segmentation - This case requires to develop a customer segmentation to define marketing strategy. The
 sample Dataset summarizes the usage behavior of about 9000 active credit card holders during 6 months. The file is at a customer level with 18 behavioral variables.
-Skills/Tehnics: Clustering, K-means.
+Skills/Technics: Clustering, K-means.
+
+LSTM Stock Price Prediction - I tried to predict BCP stock price using LSTM architecture. Skills/Technics: LSTM, RNN, Keras, etc...
 
 ...
 
